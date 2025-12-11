@@ -1,0 +1,22 @@
+[
+  {
+    "champ": "Ligue Europa",
+    "date": "2025-12-11",
+    "heure": "17:18",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo_GNK_Dinamo_Zagreb_2024.svg/1200px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
+    "name1": "Dinamo Zagreb",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Real_betis_logo.svg/1200px-Real_betis_logo.svg.png",
+    "name2": "Real Betis",
+    "pro": "Total: (+2)"
+  },
+  {
+    "champ": "Ligue Europa",
+    "date": "2025-12-11",
+    "heure": "17:18",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/PAOK_FC_logo.svg/862px-PAOK_FC_logo.svg.png",
+    "name1": "PAOK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6a/PAOK_FC_logo.svg/862px-PAOK_FC_logo.svg.png",
+    "name2": "BUDAPEST",
+    "pro": "Total: (+2)"
+  }
+]
